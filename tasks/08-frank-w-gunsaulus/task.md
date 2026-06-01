@@ -40,3 +40,11 @@ Write `output.md` in this folder covering the four sections below.
 - Quote Phillip D. Armour's offer verbatim.
 - Bold-emphasize Hill's "36 HOURS" line.
 - End with a 4–6-bullet "Lessons for getting rich today" checklist.
+
+
+## 5. Chinese translation
+After completing sections 1–4 in English, append a full Chinese (Simplified, 简体中文) translation of the entire report below an `---` divider, under the heading `# 中文版本`. The translation should:
+- Mirror the four sections in the same order, with translated headings (背景, 主角的人生轨迹, 致富之路与主要因素, 我们能学到什么 — 尤其是关于致富).
+- Translate quoted passages naturally, keeping the original English in parentheses immediately after each translated quote on first appearance.
+- Keep proper names in their original English spelling (e.g., Edwin C. Barnes, Andrew Carnegie), optionally followed once by a common Chinese rendering in parentheses on first mention.
+- Translate the final bullet checklist as well.
