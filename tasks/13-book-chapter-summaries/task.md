@@ -14,9 +14,16 @@ Supported formats: `.epub`, `.pdf`, `.txt`, `.md`, `.docx`, `.mobi`.
 
 If no book file is present, do **not** invent content. Write `output.md` stating: "No book files found in `books/`. Add a book (epub/pdf/txt/…) to this folder and re-run." and stop.
 
+## Available parsers
+The `SessionStart` hook installs these Python libraries automatically (see `scripts/setup-book-tools.sh`):
+- `pymupdf` (import as `fitz`) → PDF text extraction.
+- `mobi` → MOBI extraction to HTML (`mobi.extract(path)` returns a tempdir + `book.html`).
+- `ebooklib` → EPUB convenience layer. Plain `zipfile` + regex over the XHTML also works.
+- For Chinese books, decode as UTF-8 and keep CJK punctuation intact; do not transliterate names.
+
 ## Steps of work
 1. **Discover** every book file in the locations above. List them.
-2. **Extract text** from each book (e.g., unzip an EPUB and read its XHTML, parse a PDF, read plain text). Identify the chapter/section structure from the table of contents and headings.
+2. **Extract text** from each book (PyMuPDF for PDF, `mobi` for MOBI, `zipfile`/`ebooklib` for EPUB, plain read for TXT/MD). Identify the chapter/section structure from the table of contents and headings.
 3. **For each chapter**, write:
    - The chapter number and title.
    - A 3–6 sentence summary of the chapter's content in plain language.
