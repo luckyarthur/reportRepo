@@ -4,6 +4,8 @@
 
 **Provenance.** Each entry is tagged `sourced` (the question appears in the interview-prep material surveyed) or `added-for-coverage` (authored here to fill a gap the sources left). 24 of 33 entries are `sourced`; 9 are `added-for-coverage`, concentrated in Tiers 3 and 4 where prep material is thinnest.
 
+**Verification status.** The code in this report **was not compiled or run.** It is written against the primary sources cited below and is intended to be correct for the Swift version stated on each entry, but treat it as reviewed prose, not tested code.
+
 ---
 
 ## TL;DR
