@@ -2,7 +2,7 @@
 
 **Scope:** 20 profiles across four continents and five generations — births from 1867 to 1976, fortunes made from the 1900s to the 2010s. Coverage: 9 non-Western figures, 5 women, 4 born before 1900, 6 whose fortunes were made after 2000, 12 outside technology and finance, 2 refugees or forced migrants, and 3 cases ending in collapse, bankruptcy, or criminal conviction. Plus a rejected-candidates table, a first-capital table, a counter-evidence section with base rates, and a study curriculum.
 
-**Research performed:** 2026-08-31.
+**Research performed:** 2026-08-31. **Open questions revisited 2026-09-01** — eight of the fourteen items in §11 were resolved or narrowed in that second pass, and one gap the first pass had left qualitative (the Do Won Chang wealth arc) was closed; the section now separates what moved from what still has not.
 
 **All wealth figures are point-in-time estimates.** No net-worth number below is a measurement. Where a figure is given, the provider and list date are named. Historical fortunes are stated in nominal terms of their own year unless explicitly marked; inflation-adjusted historical fortunes are methodologically contested and are avoided here.
 
@@ -59,7 +59,8 @@ This task is narrower and stricter: the entry requirement is a documented from-n
 - **Timing into a structural shift does more work than any personal trait.** Post-war Japanese and Korean industrialisation, China's post-1978 opening, post-Franco Spanish consumer growth, African mobile telephony in the 1990s, and the smartphone glass boom after 2007 each produced multiple fortunes in this set (B).
 - **Several canonical "from nothing" stories fail the filter on investigation.** Aliko Dangote's first capital was a ₦500,000 loan (then ~US$325,000) from an uncle in one of West Africa's wealthiest families (B). Shahid Khan's mother was a mathematics professor (B). Elizabeth Holmes's parents were a corporate vice-president and a congressional staffer (B). These exclusions are part of the deliverable.
 - **Origin predicts nothing about conduct.** Bernard Madoff's origins were genuinely modest — and he ran the largest Ponzi scheme in recorded history (A, court records). His *own* first capital included a $50,000 loan from his in-laws against $5,000 of his own savings (B) — a ratio that disqualifies him from the strict filter and that no retelling of his story mentions.
-- **Wealth built from nothing is also lost from nothing.** Forever 21 filed for Chapter 11 in 2019 and again in 2025, erasing most of the Chang family's paper fortune (A/B).
+- **Wealth built from nothing is also lost from nothing.** The Changs' fortune was put near US$6bn in 2015; they fell off the Forbes list in July 2019, two months before Forever 21's first Chapter 11, and sold the retailer for about US$81m in 2020. It filed again in 2025 (A/B).
+- **The best-known number in a rags-to-riches story is often the one that fails first.** Madam C. J. Walker's own biographer values her estate at roughly **$600,000**, not the million dollars the "first female self-made millionaire" label requires (B) — and the rival figure advanced for Annie Turnbo Malone traces to a book its publisher had to correct. Both claims to "first" dissolve on contact with the sourcing.
 - **What transfers is mechanism, not biography.** Proximity to a growing market, converting labour into an owned asset, and stopping selling time are portable. Being 25 years old in Shenzhen in 1993 is not.
 
 ---
@@ -117,25 +118,25 @@ This task is narrower and stricter: the entry requirement is a documented from-n
 
 | Name | Life dates | Country | Starting condition | First paid work | Wealth vehicle | First capital (amount + year) | Peak wealth estimate (source + date) | Best book |
 |---|---|---|---|---|---|---|---|---|
-| Madam C. J. Walker | 1867–1919 | USA | Orphaned child of formerly enslaved parents | Cotton picking; laundress | Hair-care products, direct sales | ~$1.05–1.50 savings, 1905 (disputed) | Estimated ~$600k–$1m at death, 1919, nominal (B, Bundles) | Bundles, *On Her Own Ground* |
+| Madam C. J. Walker | 1867–1919 | USA | Orphaned child of formerly enslaved parents | Cotton picking; laundress | Hair-care products, direct sales | ~$1.05–1.50 savings, 1905 (disputed) | ~$600,000 at death, 1919, nominal (B, Bundles) — not the $1m of the popular claim | Bundles, *On Her Own Ground* |
 | Coco Chanel | 1883–1971 | France | Orphanage from ~12 | Seamstress; cabaret singer | Couture, perfume licensing | Not her own — Balsan/Capel financing, 1910 | Not reliably documented; Chanel No. 5 royalties (B) | Garelick, *Mademoiselle* |
 | Harland Sanders | 1890–1980 | USA | Father died c.1895; rural poverty | Farm hand at ~10 | Restaurant franchising | Service-station lease, 1930 (amount not documented) | $2m sale of KFC, 1964, nominal (A/B) | Ozersky, *Colonel Sanders and the American Dream* |
 | Konosuke Matsushita | 1894–1989 | Japan | Father ruined speculating; apprenticed at 9 | Hibachi shop apprentice, age 9 | Electrical goods manufacturing | Just over ¥95, 1918 (A) | Among Japan's largest fortunes by the 1960s (B) | Kotter, *Matsushita Leadership* |
-| Chung Ju-yung | 1915–2001 | South Korea | Farm labourer's son, colonial Korea | Dock and construction labourer | Construction, shipbuilding, autos | Rice shop handed over, 1938; garage funds raised, 1940 | Hyundai Group, one of Korea's largest chaebol (B) | Steers, *Made in Korea* |
+| Chung Ju-yung | 1915–2001 | South Korea | Farm labourer's son, colonial Korea | Dock and construction labourer | Construction, shipbuilding, autos | Rice shop handed over, 1937–38; 3,000-won loan for the garage, 1940 (B) | Hyundai Group, one of Korea's largest chaebol (B) | Steers, *Made in Korea* |
 | Li Ka-shing | b. 1928 | Hong Kong | Refugee from Chaozhou, 1940; orphaned at ~14 | Watchband/plastics factory, age ~15 | Plastics → property → ports/telecoms | ~HK$50,000, 1950, savings + loans from relatives (B) | US$47bn, Forbes list, March 2026 (B) | Chan, *Li Ka-shing: Hong Kong's Elusive Billionaire* |
 | Amancio Ortega | b. 1936 | Spain | Railway worker's son; left school ~14 | Shirt-shop errand boy | Vertically integrated fast fashion | Reported ~5,000 pesetas, 1963 (C) | US$148bn, Forbes list, March 2026 (B) | O'Shea, *The Man from Zara* (authorised) |
-| Leonardo Del Vecchio | 1935–2022 | Italy | Father died pre-birth; orphanage at 7 | Engraving/medal workshop boy at 14 | Eyewear manufacturing + retail | Own tool-shop earnings, 1961 (amount not documented) | Among Europe's largest fortunes (B) | No definitive independent English biography |
+| Leonardo Del Vecchio | 1935–2022 | Italy | Father died pre-birth; orphanage at 7 | Engraving/medal workshop boy at 14 | Eyewear manufacturing + retail | 500,000 lire for a 33% stake, 1961 (B/C) | Among Europe's largest fortunes (B) | No definitive independent English biography |
 | Dhirubhai Ambani | 1932–2002 | India | Village schoolteacher's son | Fruit vendor; pump attendant, Aden | Polyester → petrochemicals | Rs 15,000, 1958 (B) | Reliance among India's largest groups (B) | McDonald, *The Polyester Prince* |
-| Mo Ibrahim | b. 1946 | Sudan / UK | Clerk's son; modest but stable (**partial**) | Sudanese telecoms engineer | African mobile networks | MSI founded 1989 (amount not documented) | Celtel sold for US$3.4bn, 2005 (A/B) | HBR first-person account, Oct 2012 |
+| Mo Ibrahim | b. 1946 | Sudan / UK | Clerk's son; modest but stable (**partial**) | Sudanese telecoms engineer | African mobile networks | No outside capital — MSI run from his dining table, 1989 (B) | ~US$1.4bn personally from the US$3.4bn Celtel sale, 2005; #2858, Forbes list, March 2026 (B) | HBR first-person account, Oct 2012 |
 | Zong Qinghou | 1945–2024 | China | 15 years manual labour on Zhoushan | Farm and salt-works labour | Beverages (Wahaha) | ¥140,000 loan, 1987 (B) | China's richest, Hurun/Forbes, 2010 and 2012 (B) | No definitive English biography |
 | Zhou Qunfei | b. 1970 | China | Mother died when she was 5; left school at 16 | Watch-lens factory worker | Smartphone cover glass | ~HK$20,000 savings, 1993 (B) | ~US$18.2bn, Forbes, 2026 (B) | No definitive independent biography |
-| Jack Ma | b. 1964 | China | Street-performer family; repeated rejection | English teacher, ~$12–15/month | B2B and consumer e-commerce | ~US$20,000 borrowed, 1995; ¥500,000 pooled, 1999 (B) | Alibaba IPO, NYSE, Sept 2014 (A) | Clark, *Alibaba: The House That Jack Ma Built* |
-| Masayoshi Son | b. 1957 | Japan | Zainichi Korean shanty origins (**partial**) | Arcade-machine leasing as a student | Software distribution → tech investing | ~US$1m from Sharp for a translator patent, c.1978 (B) | Peak Bloomberg estimates in the tens of billions (B) | Barber, *Gambling Man* |
-| Oprah Winfrey | b. 1954 | USA | Rural Mississippi poverty; teenage mother | Local radio news reader at ~17 | Media ownership (Harpo) | Salary; the asset was *rights*, 1988 | Long-running Forbes billionaire (B) | Kelley, *Oprah: A Biography* (unauthorised) |
-| Jan Koum | b. 1976 | Ukraine → USA | Emigrated at 16; food stamps; public housing | Grocery-store cleaner | Messaging software | Own savings + Yahoo stock, 2009 | ~$19bn Facebook acquisition, Feb 2014 (A) | No definitive biography |
-| Do Won Chang | b. 1954 | Korea → USA | Immigrant, 1981; three simultaneous jobs | Janitor; gas station attendant | Fast-fashion retail | US$11,000 savings, 1984 (B) | Forever 21 Chapter 11, 2019 and 2025 (A/B) | No definitive biography |
-| J. K. Rowling | b. 1965 | UK | Working-class origins; on benefits (**partial**) | Secretary; English teacher | Book copyright + licensing | £1,500 advance + £8,000 arts grant, c.1996–97 (B) | First author widely reported as a billionaire (B) | Smith, *J.K. Rowling: A Biography* (unauthorised) |
-| John Paul DeJoria | b. 1944 | USA | Poverty; periods homeless (**partial**, C-sourced) | Newspaper delivery; encyclopaedia sales | Hair care; tequila brand | $700 loan, 1980 (C — self-reported) | Long-running Forbes billionaire (B) | No independent biography |
+| Jack Ma | b. 1964 | China | Street-performer family; repeated rejection | English teacher, ~$12–15/month | B2B and consumer e-commerce | ~US$20,000 borrowed, 1995; ¥500,000 pooled, 1999 (B) | US$29.1bn, Forbes list, March 2026 (B) | Clark, *Alibaba: The House That Jack Ma Built* |
+| Masayoshi Son | b. 1957 | Japan | Zainichi Korean shanty origins (**partial**) | Arcade-machine leasing as a student | Software distribution → tech investing | ~US$1.7m from Sharp for a translator patent, c.1978 (B/C) | US$51.5bn, Forbes list, March 2026 (B) | Barber, *Gambling Man* |
+| Oprah Winfrey | b. 1954 | USA | Rural Mississippi poverty; teenage mother | Local radio news reader at ~17 | Media ownership (Harpo) | Salary; the asset was *rights*, 1988 | US$3.4bn (#1325), Forbes list, March 2026 (B) | Kelley, *Oprah: A Biography* (unauthorised) |
+| Jan Koum | b. 1976 | Ukraine → USA | Emigrated at 16; food stamps; public housing | Grocery-store cleaner | Messaging software | Own savings + Yahoo stock, 2009 | US$17.1bn, Forbes list, March 2026 (B) | No definitive biography |
+| Do Won Chang | b. 1954 | Korea → USA | Immigrant, 1981; three simultaneous jobs | Janitor; gas station attendant | Fast-fashion retail | US$11,000 savings, 1984 (B) | ~US$6bn (2015) → off the Forbes list, July 2019 (B) | No definitive biography |
+| J. K. Rowling | b. 1965 | UK | Working-class origins; on benefits (**partial**) | Secretary; English teacher | Book copyright + licensing | £1,500 advance + £8,000 arts grant, c.1996–97 (B) | ~US$1.2bn, Forbes real-time, August 2026 (B) | Smith, *J.K. Rowling: A Biography* (unauthorised) |
+| John Paul DeJoria | b. 1944 | USA | Poverty; periods homeless (**partial**, C-sourced) | Newspaper delivery; encyclopaedia sales | Hair care; tequila brand | $700 loan, 1980 (C — self-reported) | #1406, Forbes list, March 2026 (B) | No independent biography |
 | Bernard Madoff | 1938–2021 | USA | Plumber's son, Queens (**partial**) | Lifeguard; sprinkler installation | Broker-dealer → Ponzi scheme | $5,000 own + $50,000 in-law loan, 1960 (B) | Fictitious; $64.8bn in fabricated statements (A, court records) | Henriques, *The Wizard of Lies* |
 
 ---
@@ -147,26 +148,26 @@ The single most useful table in this report. Nominal amounts in the currency and
 | Person | Year | Amount (nominal) | Source of capital | What it bought | Tier |
 |---|---|---|---|---|---|
 | Matsushita | 1918 | Just over ¥95 | Savings after resigning from Osaka Electric Light | Rented house in Ikaino, Osaka; materials for lamp sockets | A |
-| Walker | 1905 | $1.05 / $1.25 / $1.50 (sources disagree) | Wages as a laundress and cook | Train fare to Denver; first batch of ingredients | B/C |
+| Walker | 1905 | $1.05 (History.com) / $1.25 (Bundles) / $1.50 (NPS, EBSCO) | Wages as a laundress and cook | Train fare to Denver; first batch of ingredients | B/C |
 | Chanel | 1910 | Not disclosed | Étienne Balsan's apartment; Arthur Capel's money | Millinery premises at 21 rue Cambon, Paris | B |
 | Sanders | 1930 | Not documented | Service-station operating agreement, Corbin, KY | A kitchen attached to a filling station | B |
-| Chung | 1938–40 | Not documented | Rice shop transferred by an ailing owner; funds raised for the garage | The A-do auto repair shop, Seoul, Feb 1940 | B |
+| Chung | 1940 | 3,000 won (loan) | Rice shop transferred gratis by its ailing owner, 1937; a 3,000-won loan for the garage | The A-do auto repair shop, Seoul, Feb 1940 — burned down within a month | B |
 | Li Ka-shing | 1950 | ~HK$50,000 | Personal savings plus loans from relatives and friends | A rented plastics factory | B |
 | Ambani | 1958 | Rs 15,000 | Savings from Aden wages, with partners | A ~350 sq ft office at Masjid Bunder, Bombay | B |
-| Del Vecchio | 1961 | Not documented | Earnings as a tool-and-die maker | A subcontract eyeglass-parts workshop in Agordo | B |
-| Ortega | 1963 | Reported ~5,000 pesetas | Wages as a shop assistant | Bathrobe and housecoat production (Confecciones GOA) | C |
-| Son | c.1978 | ~US$1,000,000 | Sharp Corporation, for a pocket-translator patent | Seed for Unison World, then SoftBank (1981) | B |
+| Del Vecchio | 1961 | 500,000 lire | Earnings as a tool-and-die maker | A 33% stake in a subcontract eyeglass-parts workshop in Agordo, beside two Metalflex partners | B/C |
+| Ortega | 1963 | Reported ~5,000 pesetas | Wages as a shop assistant, pooled with his wife Rosalía Mera | Bathrobe and housecoat production (Confecciones GOA — the reversed initials of Ortega Gaona and his brother Antonio) | C |
+| Son | c.1978 | ~US$1,700,000 | Sharp Corporation, for a pocket-translator patent | Seed for Unison World, then SoftBank (1981) | B |
 | DeJoria | 1980 | $700 | A loan; source not independently documented | First John Paul Mitchell Systems product run | C |
 | Madoff | 1960 | $5,000 own + $50,000 in-law loan | Lifeguarding, sprinkler installation; wife's parents | Registration and float for the broker-dealer | B |
 | Chang | 1984 | US$11,000 | Savings from three simultaneous jobs | A 900 sq ft LA store ("Fashion 21") | B |
 | Zong | 1987 | ¥140,000 | Bank/collective loan | A school sales concession; a tricycle cart | B |
 | Zhou | 1993 | ~HK$20,000 | Factory wages saved over ~7 years | A screen-printing workshop in a Shenzhen apartment | B |
-| Ma | 1995 | ~US$20,000 | Borrowed from relatives | China Pages, an early Chinese web directory | B/C |
+| Ma | 1995 | ~US$20,000 (a competing account says ~US$2,400) | Borrowed from relatives, with his wife Cathy and a friend | China Pages, an early Chinese web directory | B/C |
 | Ma | 1999 | ¥500,000 | Pooled by 18 co-founders | Alibaba.com, run from his Hangzhou apartment | B |
 | Rowling | c.1996–97 | £1,500 + £8,000 | Bloomsbury advance; Scottish Arts Council grant | A year of childcare, which produced book two | B |
 | Koum | 2009 | Own savings | Accumulated salary and equity from ten years at Yahoo | Servers and living costs during WhatsApp's first year | B |
 | Oprah | 1988 | n/a | No cash outlay — a contractual claim on rights | Ownership of the show she already presented | B |
-| Ibrahim | 1989 | Not documented | Personal funds after a senior BT/Cellnet career | Mobile Systems International, a network-design consultancy | B/C |
+| Ibrahim | 1989 | None identified | No outside capital; consultancy billings — MSI was profitable within four weeks | Mobile Systems International, run from his London dining table | B/C |
 
 **The pattern the table shows:** in only eight of twenty-one entries was the first capital purely the person's own savings. Family loans, partners' pooled cash, a lover's money, a state arts grant, and an employer's patent payment do most of the remaining work. The self-funded, no-help founding is the exception in a set explicitly selected for from-nothing origins.
 
@@ -194,7 +195,7 @@ The single most useful table in this report. Nominal amounts in the currency and
 
 **The pivotal decision.** Training and organising agents rather than selling through retailers. It converted her customers into her salesforce and made the business hard to copy without the same trust relationship.
 
-**Documented vs. legend.** Well documented: the dates, the Indianapolis plant, the agent conventions, the philanthropy, the estate. **Not** well documented: the exact starting sum. Different reputable sources report $1.05, $1.25, and $1.50, and the "dream in which a large Black man revealed the formula" is Walker's own retelling (C) and cannot be independently verified. Her frequent description as "the first female self-made millionaire in America" is contested — her estate's value at death is disputed and Annie Malone has a competing claim (B).
+**Documented vs. legend.** Well documented: the dates, the Indianapolis plant, the agent conventions, the philanthropy. **Not** well documented: the exact starting sum. The three figures each trace to a different source — $1.05 (History.com), $1.25 (Bundles, the family biographer), $1.50 (US National Park Service and EBSCO) — and none cites a primary record. The "dream in which a large Black man revealed the formula" is Walker's own retelling (C) and cannot be independently verified. **On the millionaire claim, Bundles is explicit and against her own family's interest: the estate — houses, factory, offices, salons, apartment buildings, furnishings, cars, jewellery and furs — was worth roughly $600,000 at Walker's death, not $1m** (B). She was moving toward it and did not reach it. Annie Turnbo Malone's competing claim is separately unreliable: the widely circulated "$14m" figure for Malone entered general circulation through Shomari Wills's *Black Fortunes* (2018), a book its publisher subsequently had to revise (B/C). The honest statement is that neither woman's "first" is established.
 
 **Read this.** A'Lelia Bundles, *On Her Own Ground: The Life and Times of Madam C. J. Walker* (Scribner, 2001). Written by Walker's great-great-granddaughter, so not neutral — but it is archivally serious, uses family papers unavailable elsewhere, and corrects several myths its author could have profited from repeating. Treat descriptive claims as reliable and family-legacy framing with caution.
 
@@ -297,9 +298,9 @@ The single most useful table in this report. Nominal amounts in the currency and
 **Life track.**
 - 1915 — born, Asan, colonial Korea.
 - 1935 — runs away for the fourth time; labours at Incheon docks, then a rice shop in Seoul.
-- 1938 — the ailing rice-shop owner hands him the business (B).
-- 1939–40 — the shop closes under Japanese wartime rice rationing.
-- 1940 (1 February) — opens the A-do auto repair shop in Seoul (B).
+- 1937 — the ailing rice-shop owner hands him the business gratis; he renames it the Kyungil Rice Store (B).
+- 1939 — the Japanese colonial administration restricts Korean ownership of rice shops; he loses the store (B).
+- 1940 (1 February) — borrows **3,000 won** and opens the A-do Service Garage in Seoul; it burns to the ground within a month (B).
 - 1946–47 — founds Hyundai Auto Service and then Hyundai Civil Industries.
 - 1950–53 — Korean War; displaced south; the company survives on US military construction contracts.
 - 1965–70 — overseas construction (Thailand, then the Middle East); the Gyeongbu Expressway.
@@ -313,9 +314,9 @@ The single most useful table in this report. Nominal amounts in the currency and
 
 **The pivotal decision.** Committing to shipbuilding in 1972 with no yard, no workforce, and no order book — and using the Korean state's export mandate as the underwriting.
 
-**Documented vs. legend.** Well documented: the 1940 garage, the postwar military contracts, the Ulsan yard, the 1998 cattle crossing. Contested: the beach-photograph story is retold in his own memoir and is not independently verifiable in that form (C). His story is also frequently told without the state credit allocation and the labour conditions that made 1970s Korean heavy industry possible.
+**Documented vs. legend.** Well documented: the 1940 garage and the fire that destroyed it weeks later, the postwar military contracts, the Ulsan yard, the 1998 cattle crossing. The first-capital question, open in the previous pass, resolves in an instructive direction: **neither of his first two businesses was bought with his own money.** The rice shop was a gift from a dying employer and the garage was a 3,000-won loan that burned within a month — so his actual first capital was a creditor's, twice over, and he was wiped out before he was 25. Contested: the beach-photograph story is retold in his own memoir and is not independently verifiable in that form (C). His story is also frequently told without the state credit allocation and the labour conditions that made 1970s Korean heavy industry possible.
 
-**Read this.** Richard M. Steers, *Made in Korea: Chung Ju Yung and the Rise of Hyundai* (Routledge, 1999) — the standard English-language independent treatment. Chung's Korean memoir *이 땅에 태어나서* (1998) is the primary self-account; English editions exist but availability is limited — verify the specific edition before citing it.
+**Read this.** Richard M. Steers, *Made in Korea: Chung Ju Yung and the Rise of Hyundai* (Routledge, 1999) — the standard English-language independent treatment. Chung's Korean memoir *이 땅에 태어나서* (1998) is the primary self-account; the English edition is *Born of This Land: My Life Story* (The Asan Academy, 2019, ISBN 9791196193447) — self-account, so tier (C) on motive and tier (A) on the events of his own life that are externally checkable.
 
 **What to study here.** (1) Where the state is directing capital, proximity to the direction is the business model. (2) Selling capacity before you have it is a financing technique, not a character trait — it only works with an underwriter. (3) The chaebol's diversification was a response to credit allocation, not a strategy chosen on the merits.
 
@@ -360,7 +361,7 @@ The single most useful table in this report. Nominal amounts in the currency and
 - 1936 — born, Busdongo de Arbás, León.
 - 1944 — family moves to A Coruña.
 - c.1950 — leaves school; errand boy at the Gala shirt shop.
-- 1963 — founds Confecciones GOA, making quilted bathrobes and housecoats, reportedly with ~5,000 pesetas (C).
+- 1963 — founds Confecciones GOA — the reversed initials of Amancio Ortega Gaona, with his brother Antonio — making quilted bathrobes and housecoats, reportedly with ~5,000 pesetas of savings pooled with his wife Rosalía Mera (C).
 - 1975 — opens the first Zara store in A Coruña.
 - 1985 — Inditex is created as the holding company.
 - 1988 — first international store, Porto, Portugal.
@@ -373,7 +374,7 @@ The single most useful table in this report. Nominal amounts in the currency and
 
 **The pivotal decision.** Retaining manufacturing and logistics rather than outsourcing them, which is what made short cycles possible while competitors were locked into Asian lead times.
 
-**Documented vs. legend.** Well documented: the 1963 GOA founding, the 1975 store, the 1985 holding company, the 2001 IPO (A, Inditex filings). Weakly documented: the 5,000-peseta founding figure, which circulates widely without an identified primary source (C). Ortega gives almost no interviews, so the interior narrative comes largely through the authorised biography.
+**Documented vs. legend.** Well documented: the 1963 GOA founding, the 1975 store, the 1985 holding company, the 2001 IPO (A, Inditex filings). Weakly documented: the 5,000-peseta founding figure, which circulates widely without an identified primary source (C) — a further pass in September 2026 again found no primary record behind it, only mutually citing secondary accounts. Also routinely dropped from the story: Rosalía Mera co-founded the business and sewed the first garments herself; she was later Spain's richest woman in her own right. Ortega gives almost no interviews, so the interior narrative comes largely through the authorised biography.
 
 **Read this.** Covadonga O'Shea, *The Man from Zara: The Story of the Genius Behind the Inditex Group* (LID Publishing, 2012) — **authorised**, written by a journalist with long access to Ortega, and correspondingly uncritical on labour and supply-chain questions. Read it for the operating history and go to Inditex's own annual reports for the numbers.
 
@@ -390,7 +391,7 @@ The single most useful table in this report. Nominal amounts in the currency and
 - 1942 — placed in the Martinitt orphanage.
 - 1949 — leaves the orphanage at 14; workshop boy at a Milan engraving firm.
 - 1950s — trains as a tool-and-die maker; night classes at the Accademia di Brera.
-- 1961 (27 April) — founds Luxottica in Agordo, Belluno, as a subcontract maker of spectacle components (B).
+- 1961 (27 April) — founds Luxottica in Agordo, Belluno, as a subcontract maker of spectacle components, putting in **500,000 lire for a 33% stake** beside two partners, Francesco Da Cortà and Vittorio Toscani of Metalflex (B/C).
 - 1971 — launches complete frames under the Luxottica name at the Milan optical fair.
 - 1981 — first foreign subsidiary (Germany); begins forward integration into distribution.
 - 1988 — first designer licence (Giorgio Armani), creating the licensed-eyewear model.
@@ -405,7 +406,7 @@ The single most useful table in this report. Nominal amounts in the currency and
 
 **The pivotal decision.** The 1988 Armani licence — realising that eyewear could be sold as fashion at fashion margins rather than as a medical device at industrial margins.
 
-**Documented vs. legend.** Well documented: the orphanage, the 1961 founding, and every acquisition from 1990 onward (A, SEC and Borsa Italiana filings). Less examined in the popular telling: the antitrust scrutiny that the integrated structure repeatedly attracted, and the criticism that the resulting market position raised consumer eyewear prices.
+**Documented vs. legend.** Well documented: the orphanage, the 1961 founding, and every acquisition from 1990 onward (A, SEC and Borsa Italiana filings). The founding capital, unresolved in the previous pass, is consistently reported at 500,000 lire for a third of the company (B/C) — worth noting that he was therefore a *minority* partner in the company he is remembered as having founded alone, and that the money came from his own tool-and-die wages. Less examined in the popular telling: the antitrust scrutiny that the integrated structure repeatedly attracted, and the criticism that the resulting market position raised consumer eyewear prices.
 
 **Read this.** There is no definitive independent English-language biography. The reliable sources are Luxottica and EssilorLuxottica annual reports (A) and the business-press coverage of the 2018 merger (B). Italian-language material exists but was not verified in this pass.
 
@@ -451,9 +452,9 @@ The single most useful table in this report. Nominal amounts in the currency and
 - 1960s — undergraduate engineering, Alexandria University.
 - 1970s — works for Sudan's national telecoms operator; postgraduate study in the UK.
 - 1983–89 — technical director for Cellnet, British Telecom's mobile arm.
-- 1989 — leaves to found Mobile Systems International (MSI), a network-design consultancy.
+- 1989 — leaves to found Mobile Systems International (MSI), a network-design consultancy run from the dining table of his London home; it is profitable within four weeks (B).
 - 1998 — founds MSI Cellular Investments, later Celtel, to build mobile networks in Africa.
-- 2000 — sells the MSI consultancy business to Marconi.
+- 2000 — sells the MSI consultancy business to Marconi for a reported US$900m+ (B).
 - 2004 — Celtel operates in 13 African countries.
 - 2005 (April) — sells Celtel to MTC of Kuwait (later Zain) for **US$3.4bn** (A/B).
 - 2006 — founds the Mo Ibrahim Foundation and the Prize for Achievement in African Leadership.
@@ -463,7 +464,7 @@ The single most useful table in this report. Nominal amounts in the currency and
 
 **The pivotal decision.** Refusing to pay bribes, in an operating environment where that was the norm — which preserved the exit.
 
-**Documented vs. legend.** Well documented: MSI, Celtel's country operations, the 2005 sale price, the Foundation. The bribery-refusal account rests substantially on Ibrahim's own telling, including in *Harvard Business Review* (October 2012) — first-person and therefore tier (A) for his account and tier (C) as independent verification of company-wide conduct.
+**Documented vs. legend.** Well documented: MSI, Celtel's country operations, the 2005 sale price, the Foundation; Ibrahim personally realised a reported US$1.4bn from the Celtel sale, and he appears at #2858 on the Forbes 2026 list (B). The founding-capital question left open in the previous pass has an answer, and it is that **there was essentially none to document**: MSI was a consultancy started at a dining table and profitable inside a month, so it was financed by its own billings. The frequently repeated claim that he remortgaged his house still has no identifiable source and is not asserted here. The bribery-refusal account rests substantially on Ibrahim's own telling, including in *Harvard Business Review* (October 2012) — first-person and therefore tier (A) for his account and tier (C) as independent verification of company-wide conduct.
 
 **Read this.** No independent biography exists. The best primary source is Ibrahim's own HBR article, "Celtel's Founder on Building a Business on the World's Poorest Continent" (*Harvard Business Review*, October 2012). Mo Ibrahim Foundation publications are tier (A) for the Index methodology and tier (C) on his own story.
 
@@ -539,7 +540,7 @@ The single most useful table in this report. Nominal amounts in the currency and
 - c.1979–85 — gives free tours to foreign visitors to practise English; acquires the name "Jack".
 - c.1982–84 — fails the *gaokao* twice; admitted to Hangzhou Teachers College on the third attempt.
 - 1988–94 — English lecturer, Hangzhou Dianzi University.
-- 1995 — travels to the US as a translator; encounters the internet; founds China Pages with roughly **US$20,000 borrowed from relatives** (B/C).
+- 1995 (April) — travels to the US as a translator; encounters the internet; founds China Pages with roughly **US$20,000** raised with his wife Cathy and a friend, borrowed from relatives (B/C; a competing account puts the sum at ~US$2,400).
 - 1997–99 — works for a China Ministry of Foreign Trade internet venture in Beijing.
 - 1999 (February) — founds Alibaba.com in his Hangzhou apartment with 17 others and about **¥500,000** pooled (B).
 - 1999–2000 — Goldman Sachs-led investment; then SoftBank's US$20m (B).
@@ -553,7 +554,7 @@ The single most useful table in this report. Nominal amounts in the currency and
 
 **The pivotal decision.** Building Alipay in 2004. Payment trust, not selection or price, was the binding constraint on Chinese e-commerce, and solving it made the marketplace defensible.
 
-**Documented vs. legend.** Well documented: the founding, the funding rounds, the IPO, the Ant restructuring (A, SEC filings and Alibaba prospectuses). Heavily mythologised: the "rejected by KFC" anecdote and the precise numbers of rejections trace to Ma's own speeches (C). The 1999 apartment founding video is real (A). The 2011 transfer of Alipay out of Alibaba, which Yahoo said occurred without its approval, is well documented and rarely appears in the inspirational retelling (B).
+**Documented vs. legend.** Well documented: the founding, the funding rounds, the IPO, the Ant restructuring (A, SEC filings and Alibaba prospectuses). Heavily mythologised: the "rejected by KFC" anecdote and the precise numbers of rejections trace to Ma's own speeches (C). The 1995 China Pages capital remains genuinely unsettled — reputable accounts give both ~US$20,000 and ~US$2,400, an order-of-magnitude gap that no source reconciles, and the ~US$20,000 figure is the more widely repeated rather than the better evidenced. The 1999 apartment founding video is real (A). The 2011 transfer of Alipay out of Alibaba, which Yahoo said occurred without its approval, is well documented and rarely appears in the inspirational retelling (B).
 
 **Read this.** Duncan Clark, *Alibaba: The House That Jack Ma Built* (Ecco/HarperCollins, 2016) — independent, by an adviser who knew Ma early, and the best English account. Porter Erisman, *Alibaba's World* (Palgrave Macmillan, 2015) — an insider's memoir, useful and partial.
 
@@ -569,7 +570,7 @@ The single most useful table in this report. Nominal amounts in the currency and
 - 1957 — born, Tosu, Saga.
 - c.1973 — meets Den Fujita, founder of McDonald's Japan, who advises him to study computing in the US.
 - 1974 — moves to California; Serramonte High School, then Holy Names College, then UC Berkeley (economics).
-- c.1977–78 — as a student, develops a pocket electronic translator; **sells the patent to Sharp for a reported ~US$1m** (B).
+- c.1977–78 — as a student, develops a pocket electronic translator with Berkeley physicist Forrest Mozer; **sells it to Sharp for a reported ~US$1.7m** (B/C).
 - c.1978–80 — imports Space Invaders and Pac-Man arcade machines and leases them to Bay Area venues.
 - 1981 — returns to Japan; founds SoftBank as a packaged-software distributor.
 - 1994 — SoftBank goes public in Japan.
@@ -585,7 +586,7 @@ The single most useful table in this report. Nominal amounts in the currency and
 
 **The pivotal decision.** The US$20m Alibaba investment in 2000, made after a famously short meeting — a bet that returned tens of billions and effectively funded everything afterwards.
 
-**Documented vs. legend.** Well documented: the corporate history, the funding, the losses (A, SoftBank filings). Contested: the Sharp translator sale figure varies across accounts, and the "six-minute Alibaba meeting" is a retelling by both parties (C). His self-description as an outsider is genuine as to ethnicity and, by his teens, not as to money.
+**Documented vs. legend.** Well documented: the corporate history, the funding, the losses (A, SoftBank filings). Contested: the Sharp translator sale figure varies across accounts — ~US$1.7m is the most consistently reported, with ~¥100m and ~US$1m also in circulation, and the three are not reconcilable at any plausible 1978 exchange rate, so at least two are wrong (B/C). The "six-minute Alibaba meeting" is a retelling by both parties (C). **Rarely told at all:** Mozer, whose voice-synthesiser work the translator was built on, has said publicly that he was cut out of the Sharp deal and never paid (B). The seed capital for SoftBank is therefore, on the collaborator's account, contested at its source. His self-description as an outsider is genuine as to ethnicity and, by his teens, not as to money.
 
 **Read this.** Lionel Barber, *Gambling Man: The Secret Story of the World's Greatest Disruptor, Masayoshi Son* (Allen Lane, 2024) — independent, by a former *Financial Times* editor. Atsuo Inoue, *Aiming High* (Hodder & Stoughton, 2021, English edition) — closer to the subject and correspondingly more admiring.
 
@@ -666,15 +667,18 @@ The single most useful table in this report. Nominal amounts in the currency and
 - 1987 — renamed Forever 21; expansion to a new store roughly every six months.
 - 1989 — first mall location.
 - 2000s — international expansion; peak of more than 800 stores.
-- 2015 — the family appears near the top of US retail wealth rankings (B).
+- 2015 — the family fortune is put at close to **US$6bn** (B).
+- 2018 — the estimate has halved, to about **US$3.1bn** (B).
+- 2019 (July) — the Changs drop off the Forbes billionaires list — two months before the first bankruptcy (B).
 - 2019 (September) — Forever 21 files for Chapter 11 bankruptcy protection (A).
-- 2025 — the US operating entity files for Chapter 11 a second time and winds down US stores (A/B).
+- 2020 (February) — the couple agree to sell the retailer for about **US$81m**, a loss of billions against the 2015 estimate (B).
+- 2025 (16 March) — the US operating entity files for Chapter 11 a second time and winds down US stores (A/B).
 
 **How the wealth was built.** **Speed and price in the LA garment district, then retail footprint.** Forever 21 sourced from nearby Los Angeles manufacturers, which allowed extremely short reorder cycles at very low price points aimed at teenagers — a strategy structurally similar to Zara's but at lower price and lower quality. Expansion was funded from cash flow and the family stayed private, which meant no outside discipline and no outside capital when the model failed.
 
 **The pivotal decision.** Choosing the garment trade over any other business, on the strength of an observation about which customers at the petrol station had money — followed, decades later, by the decision to expand aggressively into large-format mall space as mall traffic was structurally declining.
 
-**Documented vs. legend.** Well documented: the store openings, the bankruptcies, the court filings (A). Tier (C) and repeated everywhere: the $11,000, the three jobs, the first-year $700,000, the petrol-station observation — all trace to Chang family interviews. The rise is told constantly; the collapse rarely, and the collapse is the more instructive half.
+**Documented vs. legend.** Well documented: the store openings, the bankruptcies, the court filings, and the wealth arc — roughly US$6bn in 2015, US$3.1bn in 2018, off the Forbes list in July 2019, and US$81m for the business in 2020 (A/B). Tier (C) and repeated everywhere: the $11,000, the three jobs, the first-year $700,000, the petrol-station observation — all trace to Chang family interviews. The rise is told constantly; the collapse rarely, and the collapse is the more instructive half.
 
 **Read this.** No biography exists. The Chapter 11 filings from 2019 and 2025 (A) are the most reliable documents about the business; contemporaneous *Business of Fashion*, *Reuters* and *WSJ* coverage (B) is the best narrative account.
 
@@ -695,17 +699,19 @@ The single most useful table in this report. Nominal amounts in the currency and
 - 1993 — returns to Edinburgh; separated, on income support, writing in cafés.
 - 1995 — completes the manuscript; a series of publisher rejections follows.
 - 1996 — Christopher Little agrees to represent her; Bloomsbury buys the book for a **£1,500** advance (B).
-- c.1996–97 — receives an **£8,000** Scottish Arts Council grant (B; sources differ on whether 1996 or 1997).
+- 1996–97 — receives an **£8,000** Scottish Arts Council grant: approved by the SAC chairman in 1996, most commonly dated to 1997 in reputable accounts, and used to write *Chamber of Secrets* (B).
 - 1997 (26 June) — *Harry Potter and the Philosopher's Stone* published in a print run of 500 copies.
 - 1998 — Scholastic pays a reported US$105,000 for US rights.
 - 1999 — Warner Bros. acquires film rights.
 - 2000s — seven books, eight films, and the licensing estate; later Pottermore/Wizarding World.
+- 2012 — Forbes removes her from the billionaires list, citing her charitable giving and UK taxes (B).
+- 2025 — Forbes restores her to the list; her real-time estimate stands at about **US$1.2bn** in August 2026 (B).
 
 **How the wealth was built.** **Retained copyright in a franchise licensed across media.** The books alone would have made her rich; the fortune came from owning the underlying intellectual property and licensing it into film, merchandise, theme parks, games, and stage. Publishing is a business of rights, and Rowling — advised by an agent who understood this — did not sell hers outright. The marginal cost of the ten-millionth licence is zero.
 
 **The pivotal decision.** Retaining and centrally controlling character and world rights rather than assigning them in the initial deals — which is why the film, merchandising, and park economics flowed back to her.
 
-**Documented vs. legend.** Well documented: the £1,500 advance, the Arts Council grant, the publication date and print run, the rights deals (A/B). Mythologised: the "twelve rejections" count varies; the "wrote on napkins" detail is not supported by her own account (she wrote longhand in notebooks); the train-delay origin is her own retelling (C, though consistently told). The framing "welfare to billionaire" is accurate about her situation in 1994 and misleading about her origins.
+**Documented vs. legend.** Well documented: the £1,500 advance, the Arts Council grant, the publication date and print run, the rights deals (A/B). Mythologised: the "twelve rejections" count varies; the "wrote on napkins" detail is not supported by her own account (she wrote longhand in notebooks); the train-delay origin is her own retelling (C, though consistently told). The grant year, flagged as unresolved in the previous pass, is best stated as a two-step: approved by the Scottish Arts Council's chairman in 1996 and generally dated 1997 in reputable accounts — the £8,000 amount is not in dispute. Also worth stating plainly, because it cuts against the "first billionaire author" cliché: **Forbes removed her from the billionaires list in 2012 and only restored her in 2025** (B). She has spent much of the intervening period not being a billionaire by that measure. The framing "welfare to billionaire" is accurate about her situation in 1994 and misleading about her origins.
 
 **Read this.** Sean Smith, *J.K. Rowling: A Biography* (Michael O'Mara Books, 2001) — unauthorised, early, and superseded on later events. Rowling's 2008 Harvard commencement address is a primary source on the benefits period (A, in her own words).
 
@@ -929,7 +935,7 @@ Read these for texture and for the subject's self-presentation. **Every one is a
 
 Works published before 1930 are in the public domain in the United States. From the list above, that covers **Franklin's *Autobiography*, Douglass's *Narrative*, Washington's *Up From Slavery*, Smiles's *Self-Help*, Alger's *Ragged Dick*, and Carnegie's *Autobiography* (1920)**.
 
-- **Project Gutenberg** — https://www.gutenberg.org — all six are available; search by title. (Specific ebook ID numbers were not verified in this pass; search rather than relying on a cited number.)
+- **Project Gutenberg** — https://www.gutenberg.org — all six are available; search by title. (Specific ebook ID numbers are still uncited: `gutenberg.org` could not be opened from this environment in either pass, and a wrong ID sends you to the wrong book. Search by title rather than relying on a cited number.)
 - **Internet Archive** — https://archive.org — scanned first editions, useful when the edition matters.
 - **HathiTrust** — https://www.hathitrust.org — full view for pre-1930 US imprints.
 - **Library of Congress digital collections** — https://www.loc.gov — for census, immigration, and newspaper records, which is where you verify origin claims rather than read about them.
@@ -983,26 +989,37 @@ Take one person not covered here, apply the from-nothing filter, build the dated
 
 ## 11. Open questions / what could not be verified
 
-1. **Madam C. J. Walker's starting sum** — reputable sources give $1.05, $1.25, and $1.50. Not resolved. Also unresolved: her estate's value at death, and therefore the "first female self-made millionaire" claim, which competes with Annie Turnbo Malone's.
-2. **Amancio Ortega's ~5,000-peseta founding capital** — universally repeated, no primary source identified. Tier (C).
-3. **Chung Ju-yung's 1940 garage capital and the 1938 rice-shop transfer terms** — no figures found.
-4. **Leonardo Del Vecchio's 1961 founding capital** — not documented in any source consulted.
-5. **Mo Ibrahim's 1989 MSI founding capital** — not documented. A frequently repeated "remortgaged his house" account could not be sourced and is not asserted here.
-6. **John Paul DeJoria's entire origin story** — the $700, the car, the foster home. Independently unverified; single interested source.
-7. **Masayoshi Son's Sharp patent payment** — the ~US$1m figure varies across accounts.
-8. **Jack Ma's 1995 China Pages capital** — reported at ~US$20,000 borrowed from relatives, but figures and the borrowing structure differ between sources.
-9. **J. K. Rowling's Scottish Arts Council grant year** — 1996 and 1997 both appear in reputable sources; the £8,000 amount is consistent.
-10. **Chung Ju-yung's memoir in English** — a translated edition is referenced in several places but the publisher and year were not confirmed in this pass. Verify before citing.
-11. **Project Gutenberg ebook ID numbers** — deliberately not cited, as they were not individually verified.
-12. **Current net-worth figures** — Forbes 2026 list figures for Ortega ($148bn, #10), Li Ka-shing ($47bn, #42), and Zhou Qunfei (~$18.2bn) were confirmed via reporting of the 10 March 2026 list. **Figures for other living subjects were not re-verified against a live list on the research date** and are described qualitatively rather than numerically for that reason.
-13. **A verification constraint applies to this whole report.** Web *search* was available; direct page fetching was blocked by this environment's egress proxy for at least one primary source attempted (`opportunityinsights.org`). Academic figures were therefore confirmed through multiple agreeing secondary sources that cite the papers, not by reading the papers directly. The Chetty 7.5% and the Kaplan & Rauh composition figures carry that caveat.
-14. **Non-English sources were not used.** Italian material on Del Vecchio, Korean material on Chung, and Chinese material on Zong and Zhou would materially improve three profiles and were outside the scope of this pass.
+Two passes are recorded here. The first (2026-08-31) opened fourteen items; the second (2026-09-01) closed or narrowed eight of them and closed a ninth gap the first pass had only described qualitatively. Both are shown, because *which* questions turned out to be answerable is itself information about the genre — the gaps that closed were mostly institutional records, and the gaps that held were mostly founder-supplied anecdotes.
+
+### Resolved or materially narrowed in the second pass
+
+1. **Madam C. J. Walker's estate — resolved, against the popular claim.** A'Lelia Bundles puts the estate at roughly **$600,000** at Walker's death in 1919, counting the houses, factory, offices, salons, apartment buildings, furnishings, cars, jewellery and furs (B). She was heading toward a million dollars and had not reached it. The competing Annie Turnbo Malone claim is separately unsound: the "$14m" figure for Malone reached wide circulation through Shomari Wills's *Black Fortunes* (2018), which its publisher afterwards revised (B/C). Neither woman's "first" is established, and the report no longer implies otherwise.
+2. **Chung Ju-yung's first two businesses — resolved.** The rice shop was **handed to him gratis** by its ailing owner in 1937, renamed the Kyungil Rice Store, and lost in 1939 when the colonial administration restricted Korean ownership. The 1940 A-do Service Garage was opened on a **3,000-won loan** and burned down within a month (B). Neither was bought with his own money, and he was wiped out twice before 25.
+3. **Chung's memoir in English — resolved.** *Born of This Land: My Life Story*, The Asan Academy, 2019, ISBN 9791196193447.
+4. **Leonardo Del Vecchio's 1961 founding capital — resolved.** **500,000 lire for a 33% stake**, alongside two Metalflex partners, Francesco Da Cortà and Vittorio Toscani (B/C). He was a minority partner in the company he is remembered as founding alone.
+5. **Mo Ibrahim's 1989 MSI capital — resolved, by dissolving the question.** There was essentially no founding capital to document: MSI began at his London dining table and was profitable within four weeks, so it was financed by its own billings (B). He realised a reported **US$1.4bn** personally from the 2005 Celtel sale, having sold the MSI consultancy to Marconi for a reported US$900m+ in 2000. The "remortgaged his house" account still has no identifiable source and remains unasserted.
+6. **Masayoshi Son's Sharp payment — narrowed, not settled.** **~US$1.7m** is the figure most consistently reported (B/C). ~¥100m and ~US$1m also circulate and cannot all be right at any plausible 1978 exchange rate. Newly added to the profile: Forrest Mozer, the Berkeley physicist whose voice synthesiser the translator was built on, has said publicly that he was cut out of the deal and never paid.
+7. **J. K. Rowling's Scottish Arts Council grant — resolved as a two-step.** Approved by the SAC chairman in **1996**, generally dated **1997** in reputable accounts, £8,000 not in dispute (B). Separately established and now in the profile: Forbes removed her from the billionaires list in 2012 and restored her only in 2025.
+8. **Current wealth figures — largely resolved.** Forbes' 2026 list (10 March 2026; 3,428 billionaires, US$20.1tn in aggregate) gives Masayoshi Son **US$51.5bn**, Jack Ma **US$29.1bn**, Jan Koum **US$17.1bn**, Oprah Winfrey **US$3.4bn** (#1325), John Paul DeJoria at **#1406**, and Mo Ibrahim at **#2858**. Rowling's Forbes real-time estimate was about **US$1.2bn** in August 2026. These now sit in the master table in place of the qualitative descriptions.
+9. **Do Won Chang's wealth arc — resolved.** About **US$6bn** in 2015, about **US$3.1bn** by 2018, off the Forbes list in **July 2019** (two months before the first bankruptcy), and roughly **US$81m** for the business in the February 2020 sale (B). The collapse is now dated rather than gestured at.
+
+### Still unresolved
+
+10. **Madam C. J. Walker's starting sum.** Each of the three figures traces to a different reputable source — $1.05 (History.com), $1.25 (Bundles), $1.50 (US National Park Service, EBSCO) — and **none of them cites a primary record**. The disagreement is now attributable, which is as far as secondary sources can take it.
+11. **Amancio Ortega's ~5,000-peseta founding capital.** Searched again; still only mutually citing secondary accounts, no primary source. Tier (C).
+12. **Jack Ma's 1995 China Pages capital.** Reputable accounts give both **~US$20,000** and **~US$2,400** — an order-of-magnitude gap that no source reconciles. The larger figure is the more repeated, not the better evidenced.
+13. **Harland Sanders's 1930 service-station arrangement** and **Coco Chanel's 1910 founding sums.** No figures found in either case; both remain "not documented" in the first-capital table.
+14. **John Paul DeJoria's entire origin story** — the $700, the car, the foster home. Still a single interested source.
+15. **Mo Ibrahim's dollar value on the 2026 Forbes list.** The rank (#2858) is confirmed; the figure attached to it is not, and the ~US$1.1–1.3bn estimates in circulation carry different dates and providers.
+16. **Project Gutenberg ebook ID numbers.** Still deliberately uncited. They could not be verified — see item 18 — and a wrong ID sends a reader to the wrong book, so the curriculum tells you to search by title instead.
+17. **Non-English sources were not used** in either pass. Italian material on Del Vecchio, Korean material on Chung, and Chinese material on Zong and Zhou would materially improve four profiles.
+18. **The verification constraint got tighter, not looser.** In the first pass, web *search* worked and direct page fetching was blocked for at least one primary source (`opportunityinsights.org`). On re-testing in the second pass, **direct page fetching was blocked by the egress proxy for every host attempted** — `opportunityinsights.org`, `gutenberg.org`, `forbes.com`, `nps.gov`, `en.wikipedia.org` — by both HTTP client and fetch tool. Everything added in the second pass therefore comes from search results that quote or summarise those sources, not from reading them. **The Chetty 7.5% and the Kaplan & Rauh composition figures in §8 have still never been read at source by this report**, and the same now applies to every Forbes figure above: the list, the date and the numbers are as reported, not as read off the list. A reader who intends to rely on any specific figure should open the underlying page themselves.
 
 ---
 
 ## 12. Sources
 
-Accessed 2026-08-31 unless otherwise stated.
+Accessed 2026-08-31 unless otherwise stated. Sources marked **[2nd pass]** were added on 2026-09-01 and, per §11 item 18, were reached through search results that quote or summarise them rather than by opening the pages directly.
 
 **Academic and statistical (tier B)**
 - Raj Chetty, Nathaniel Hendren, Patrick Kline & Emmanuel Saez, "Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States", *Quarterly Journal of Economics* 129(4), 2014. NBER Working Paper 19843. https://www.nber.org/papers/w19843
@@ -1057,6 +1074,24 @@ Accessed 2026-08-31 unless otherwise stated.
 - Britannica, "Aliko Dangote". https://www.britannica.com/biography/Aliko-Dangote
 - Grainger College of Engineering, University of Illinois, Shahid Khan alumni profile (tier A/C). https://grainger.illinois.edu/alumni/hall-of-fame/shahid-kahn
 - Hustle Fund, "Jan Koum: the Ukrainian immigrant who arrived at 16 on food stamps and built WhatsApp" (tier C, narrative). https://www.hustlefund.vc/post/angel-squad-jan-koum-investments-the-ukrainian-immigrant-who-arrived-at-16-on-food-stamps-and-built-whatsapp
+
+**Added in the second pass (2026-09-01)** — all **[2nd pass]**, none read at source
+
+- A'Lelia Bundles, *On Her Own Ground* (Scribner, 2001), as quoted for the **~$600,000** estate valuation at Walker's death — against the $1m of the popular claim. **(B)**
+- A'Lelia Bundles, "The Facts about Madam C. J. Walker and Annie Malone". https://aleliabundles.com/the-facts-about-madam-c-j-walker-and-annie-malone/ — the "first millionaire sweepstakes" and the provenance of the disputed Malone figure. **(B/C)**
+- Shomari Wills, *Black Fortunes* (Amistad/HarperCollins, 2018) — named here as the route by which the "$14m" Malone figure entered circulation; the publisher subsequently issued corrections. Cited as the source of a claim, not in support of one. **(C)**
+- US National Park Service, "Using Historical Figures to Teach Economics & Financial Literacy: Madam C. J. Walker, Entrepreneur" — the **$1.50** starting figure. https://www.nps.gov/articles/000/using-historical-figures-to-teach-economics-financial-literacy-madam-c-j-walker-entrepreneur.htm **(B)**
+- History.com, "Madam C. J. Walker" — the **$1.05** starting figure. https://www.history.com/articles/madame-c-j-walker **(B/C)**
+- Chung Ju-yung, *Born of This Land: My Life Story* (The Asan Academy, 2019), ISBN 9791196193447 — the English edition of the 1998 memoir, unconfirmed in the first pass. https://asaninst.org/bbs/board.php?bo_table=s1_5_eng&wr_id=23 **(A** for his own life, **C** on motive)
+- Reporting on Chung's 1937 Kyungil Rice Store transfer, the 1939 colonial restriction on Korean rice-shop ownership, and the **3,000-won** loan behind the A-do Service Garage that burned within a month. **(B)**
+- Reporting on Leonardo Del Vecchio's **500,000-lire investment for a 33% stake** in 1961 beside Metalflex partners Francesco Da Cortà and Vittorio Toscani. **(B/C)**
+- Profiles of MSI's founding at Mo Ibrahim's London dining table and its profitability within four weeks; the 2000 Marconi sale (reported US$900m+) and the ~US$1.4bn he realised from the 2005 Celtel sale. **(B)**
+- Accounts of Masayoshi Son's translator sale to Sharp at **~US$1.7m**, and Forrest Mozer's public statement that he was cut out of the deal. **(B/C)**
+- *Prospect* and biographical accounts of the **£8,000** Scottish Arts Council grant — approved 1996, generally dated 1997. https://www.prospectmagazine.co.uk/opinions/57567/hands-off-the-arts **(B)**
+- Forbes, "World's Billionaires List 2026: The Top 200", 10 March 2026 — the list date, the 3,428 billionaires and the US$20.1tn aggregate, and the figures for Son, Ma, Koum, Winfrey, DeJoria and Ibrahim used above. https://www.forbes.com/sites/chasewithorn/2026/03/10/forbes-worlds-billionaires-list-2026-the-top-200/ **(B)**
+- Forbes, "The World's Celebrity Billionaires 2026", 10 March 2026 — Winfrey at US$3.4bn, #1325. https://www.forbes.com/sites/idonnkanga/2026/03/10/the-worlds-celebrity-billionaires-2026/ **(B)**
+- Forbes Australia, "J.K. Rowling is a billionaire — again" — the 2012 removal and the 2025 restoration; ~US$1.2bn real-time, August 2026. https://www.forbes.com.au/news/billionaires/j-k-rowling-is-a-billionaire-again/ **(B)**
+- Forbes, "Former Forever 21 Billionaire Couple Slated To Sell Troubled Retailer For Just $81 Million", 3 February 2020 — the US$81m sale and the wealth arc from ~US$6bn in 2015. https://www.forbes.com/sites/nataliesachmechi/2020/02/03/former-forever-21-billionaire-couple-slated-to-sell-troubled-retailer-for-just-81-million/ **(B)**
 
 **Sibling folders in this repository**
 - `tasks/01-edwin-c-barnes/` – `tasks/11-napoleon-hill/` — *Think and Grow Rich* retellings (tier C as biographical evidence).
